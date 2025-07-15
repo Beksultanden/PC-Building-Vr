@@ -1,7 +1,7 @@
 # VR PC Builder
 
 >**Developing a PC assembly application through VR Virtual Reality** 
-**Разработка приложения для сборки ПК через VR Виртуальной Реальности**
+>**Разработка приложения для сборки ПК через VR Виртуальной Реальности**
  
 > *(Unity-based Virtual Reality project)*
 
@@ -32,7 +32,7 @@ This is a VR application created in Unity, in which the player can assemble a pe
 |---------------------|----------------------|-------------|
 | ![Store](img/OrderingComponents.png) | ![Build](img/viev.png) | ![Done](img/finshs.png) |
 
-> Replace the placeholder images in **docs/images/** with actual screenshots or GIFs from your game view.
+> Screenshots from the game
 
 ---
 
