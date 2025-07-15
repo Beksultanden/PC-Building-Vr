@@ -58,9 +58,9 @@ This is a VR application created in Unity, in which the player can assemble a pe
 ### 1. Clone the Repository
 ```bash
 # SSH
-git clone git@github.com:<your_username>/vr-pc-assembly-simulator.git
+git clone git@github.com:<your_username>/PC-Building-Vr.git
 # or HTTPS
-git clone https://github.com/<your_username>/vr-pc-assembly-simulator.git
+git clone https://github.com/<your_username>/PC-Building-Vr.git
 ```
 
 ### 2. Open in Unity Hub
@@ -122,7 +122,7 @@ Packages/             # Manifest.json and unity package manager packages
 
 ---
 
-## 🗺 Author
+##  Author
 **Beksultan Kochkombaev** – <bkochkombaev@gmail.com>  
 
 > *Made with  in Unity.*
