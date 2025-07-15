@@ -1,13 +1,13 @@
 # VR PC Builder
 
->**Developing a PC assembly application through VR Virtual Reality** 
+>**Developing a PC assembly application through VR Virtual Reality** -
 >**Разработка приложения для сборки ПК через VR Виртуальной Реальности**
  
 > *(Unity-based Virtual Reality project)*
 
 | | |
 |---|---|
-| | <img src="img/me.jpg" width="240"/> |
+| | <img src="img/me.jpg" width="260"/> |
 
 ---
 
@@ -22,7 +22,7 @@ This is a VR application created in Unity, in which the player can assemble a pe
 - Realistic VR interaction moving around the room, interacting with objects with your hands Capture, rotate and place details using the natural gestures of the controller.
 - In the gaming environment, browse the components through the component store, compare the specifications, and then make a purchase with one click.
 - Detailed information about each element (CPU, RAM, GPU). Assembly logic only compatible components are suitable; incorrect placement is blocked.
-- Physical assembly of the computer: take —insert — plug.
+- Physical assembly of the computer: take - insert - plug.
 - The computer turns on with the fan turning on after the PC is successfully assembled.
 
 ---
@@ -75,7 +75,7 @@ git clone https://github.com/<your_username>/PC-Building-Vr.git
 ### 4. Play in Editor
 1. Connect your VR headset.
 2. Open **Scenes/GameRoom.unity**.
-3. Hit **Play**.
+3. Hit **play**.
 
 ### 5. Build a Stand-alone Player *(optional)*
 ```
