@@ -93,7 +93,7 @@ File ▸ Build Settings ▸ PC, Mac & Linux Standalone ▸ Windows ▸ Build
 | Teleport | Press and hold the *Joystick* in front of you, aim at the desired area of the system unit, and hold the button for a few seconds until the component is automatically inserted into the system unit |
 | Open Store / Close | *A / X* button |
 
-> Controls are mapped via the **XR Interaction Toolkit** input actions. See `Assets/Input/PlayerInputActions.inputactions` to remap.
+> Controls are mapped via the **XR Interaction Toolkit** input actions.
 
 ---
 
