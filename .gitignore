@@ -1,0 +1,23 @@
+# --- UNITY ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/              # Build и BuildTests
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+sysinfo.txt
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Asset meta всегда нужны
+!*.meta
+
+# --- OPTIONAL ---
+# Если не пользуешься AssetStoreTools, можно скрыть:
+# Assets/AssetStoreTools*/
+
+# Просто пример: исключить автоматический плагин LeanTween *.dll
+# Assets/LeanTween/Examples/*
